@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}  
+header{
+    display: flex;
+   background-color: bisque;
+    height: 8vh;
+}
+.ass1{
+     float: left;
+     width: 20vh;
+     height: 92vh;
+     background-color: rgb(161, 193, 202);
+     border-color: rgb(41, 216, 18);
+}
+h6{
+    margin-top: 3vh;
+    color: rgb(90, 66, 66);
+    
+}
+#das{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 10px;
+   
+}
+#da{
+    margin-left: 10px;
+    
+}
+#das:hover{
+   color: rgb(123, 123, 220);
+   width: 120px;
+   height: 20px;
+}
+a:hover{
+background-color: azure;
+height: 20px;
+
+border-radius: 10px;
+margin-left: 10px;
+}
+
+
